@@ -105,6 +105,6 @@ hardware.
 
 All open source projects begin with people like you. Open source is the belief
 that if we collaborate we can together gift our knowledge and technology to the
-world for the benefit of humanity.
+world for the benefit of humanity and all.
 
 Check out our [contributing guide](CONTRIBUTING.md) to get started.
